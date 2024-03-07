@@ -1,11 +1,11 @@
 # Hello, I'm Bryce Marraro
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/brycemarraro/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Support Engineer with a profound interest in cloud technology and a dedication to solving complex problems.
 
 ## Objective
 
-My journey in System engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a CSP as a Cloud Architect or Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in System Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a CSP as a Cloud Architect or Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
